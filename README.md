@@ -1,5 +1,6 @@
 # SpotifyClone
 SpotifyClone
+ Visit the live website: [Spotify-Clone]( https://spotifyclonejayeshsonavane.netlify.app/)
 # Spotify Clone
 
 A responsive Spotify clone project built with HTML and CSS.
