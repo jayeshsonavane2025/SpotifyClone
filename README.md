@@ -26,14 +26,7 @@ The Spotify Clone project is a tribute to the popular music streaming platform, 
 - Sidebar with navigation menu.
 - Featured playlists and new releases sections.
 - Footer with social media links and copyright information.
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-*Homepage with featured playlists.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Navigation sidebar and new releases section.*
+ 
 
 ## Usage
 
